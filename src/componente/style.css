@@ -1,0 +1,12 @@
+.managerContainer{
+    display: flex;
+    /* height: 300px; */
+;
+}
+.tableContainer{
+    width: 200px;
+    border: 1px solid black;
+}
+.trContainer{
+    border: black 2px solid;
+}
